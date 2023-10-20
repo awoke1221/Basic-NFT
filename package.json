@@ -1,0 +1,15 @@
+{
+  "name": "basic-nft",
+  "version": "1.0.0",
+  "description": "Creating Basic NFT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NFT",
+    "ERC721"
+  ],
+  "author": "Awoke Zemenu",
+  "license": "ISC"
+}
